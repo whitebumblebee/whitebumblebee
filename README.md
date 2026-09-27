@@ -16,4 +16,4 @@
 
 ### 📈 My Stats
 
-![](https://komarev.com/ghpvc/?username=whitebumblebee)
+![](https://komarev.com/ghpvc/?username=whitebumblebee&color=green)
