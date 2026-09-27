@@ -1,31 +1,19 @@
-<!--
-**whitebumblebee/whitebumblebee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Shishir(whitebumblebee)
+### 🚀 [Your Current Role / Passion, e.g., Full-Stack Developer | Open Source Enthusiast]
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **[inkline]**
+- 📫 How to reach me: [x](https://x.com/__jha_shishir__)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-<div align="center">
-	<br>
-	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
-		<img src="header.svg" width="800" height="400" alt="Click to see the source">
-	</a>
-	<br>
-</div>
+### 🛠️ Tech Stack & Tools
+<!-- You can use plain text or markdown badges here -->
+- **Languages:** JavaScript, Python
+- **Frameworks:** Django, React, Node.js, Next.js
+- **Tools:** Git, Docker, AWS
 
+---
 
+### 📈 My Stats
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+![](https://komarev.com/ghpvc/?username=whitebumblebee)
