@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Shishir(whitebumblebee)
-### 🚀 [Your Current Role / Passion, e.g., Full-Stack Developer | Open Source Enthusiast]
+### 🚀 Software Engineer working on Platforms/SRE
 
 - 🔭 I’m currently working on **[inkline]**
 - 📫 How to reach me: [x](https://x.com/__jha_shishir__)
